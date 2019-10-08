@@ -1,0 +1,14 @@
+DLL attached - Injection successful
+- ImpREC Plugin ->  D:\Docs\ricardonarvaja.info\WEB\INTRODUCCION AL REVERSING CON IDA PRO DESDE CERO\EN INGLES\14-REVERSING WITH IDA PRO FROM SCRATCH PART 14\Scylla v0.9.7c\Plugins\ImpRec_Plugins\PECompact 2.7.x.dll
+getImprecPlugin() -> LoadLibraryW failed 0x45A
+Failed to get ImpREC Plugin
+DLL successfully detached
+DLL attached - Injection successful
+- ImpREC Plugin ->  D:\Docs\ricardonarvaja.info\WEB\INTRODUCCION AL REVERSING CON IDA PRO DESDE CERO\EN INGLES\14-REVERSING WITH IDA PRO FROM SCRATCH PART 14\Scylla v0.9.7c\Plugins\ImpRec_Plugins\PECompact 2.7.x.dll
+getImprecPlugin() -> LoadLibraryW failed 0x45A
+Failed to get ImpREC Plugin
+DLL successfully detached
+DLL attached - Injection successful
+Open mapping successful
+Unsupported opcode found
+DLL successfully detached
