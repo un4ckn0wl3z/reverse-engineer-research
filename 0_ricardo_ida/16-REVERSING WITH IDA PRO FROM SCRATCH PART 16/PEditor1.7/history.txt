@@ -1,0 +1,92 @@
+PEditor 1.7:
+- Import Table rebuilder recoded (not win NT/2k compatible any more, resides now 
+  in rebIT.dll...rebIT.txt for more infos)
+- Realigner recoded (resides now in realign.dll)
+- Export Table Viewer recoded
+- Import Table Viewer: - now one can add new Imports
+                       - one can delete Image Import Descriptors
+                       - a refresh button was added (useful for long reversing 
+                         sessions :)
+- one can now use return in many edit boxes
+
+
+PEditor 1.6: (27'aug 2000)
+- PEditor should now be full win NT/2k compatible because the task engine was
+  updated and bugfixed a lot - maybe some bugs added
+- more infos in the main windows through hints
+- reloc section wiper code updated, it should work with more files now
+- new option in the Import Table Viewer: set all OriginalFirstThunks to 0
+- bug in the section adder fixed - thx Nomen Nescio :)
+- the FLC shows now the first 9 bytes at the calculated position
+- the mainraison for the stream read error message in the rebuilder was bypassed
+- Drag'n'Drop support for the main window added
+- some other code updated too
+
+
+PEditor 1.5: (6'july 2000)
+- Import Table Rebuilder was added
+- a PE Realigner was added which can optionally erase the dos stub
+- now one can also terminate modules and dump them (full, partial or in sections)
+- the Import Table Viewer was improved a lot
+- new option: one can choose to read the imported function in the Import
+  Table Viewer eiter through the OriginalFirstThunk or the FirstThunk
+- a bitchy bug that prevents PEditor reading/writing into his ini-file if PEditor
+  was started from a root path was fixed 
+
+
+PEditor 1.4: (23'june 2000)
+- process viewer/killer/dumper added
+- reloc section wiper added
+- many items were updated (e.g. the win nt/2k fixer)
+- some bugs were fixed
+
+
+PEditor 1.3: (about one week later - 11'june 2000)
+- a dumper was added
+- the file location calculator was updated (now one can enter a VA or RVA or 
+  offset(hex) or a decimal offset and the calculator shows you the others :)
+- something like Break&Enter from r!sc was added but one can also set custom
+  breakpoints
+- Export Table viewer added
+- dumpfixer added
+- new Section Table option :)
+- Section Alignment and File Alignment were added in the main window
+- Debug viewer added
+- a Resource viewer was added
+- uninteresting TLS Tabel viewer added
+- some bugs were fixed (e.g. Truncater)
+
+
+PEditor 1.2: (one week later)
+- now it can add and delete sections in the PE Header
+- it can move a section to a Harddisk
+- it can copy a section to the end of the file and update the PE
+  Header then
+- some truncating funktion were added 
+- now up to 30 sections are supported instead of 15
+- the bug that the proggy crashes if one enters no name in the
+  sectioneditor and clicks on apply changes was fixed
+- section characteristics wizard added
+- a stupid bug which showed a wrong decimal number in the VA<->offset
+  calculator if one entered a offset was fixed (ahh embarrassing ;)
+- an Import Table viewer was added
+- horrible bug in the section-editor fixed
+
+
+PEditor 1.1: (one week later)
+- a calculater which can calculate the Virtual Address to a offset and
+  vice-versa
+- now one can also change all values that are shown
+- a bug which shows the size of headers sometimes wrong was fixed
+- a refresh button was added
+
+
+PEditor 1.0: (first release)
+- one could view the important values standing in a PE Header
+  (also the section and directory table)
+- one could split a file into it's sections and PE Header
+- one could edit the checksum and correct it 
+- the first release was also able to make the PE Header of a file
+  win nt/2000 compatible (does not work very often)
+
+                      
