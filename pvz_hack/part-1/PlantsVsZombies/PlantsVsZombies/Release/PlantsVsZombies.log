@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  PlantsVsZombies.cpp
+     Creating library C:\Users\anuwat\Desktop\PVZ\part-1\PlantsVsZombies\Release\PlantsVsZombies.lib and object C:\Users\anuwat\Desktop\PVZ\part-1\PlantsVsZombies\Release\PlantsVsZombies.exp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PlantsVsZombies.vcxproj -> C:\Users\anuwat\Desktop\PVZ\part-1\PlantsVsZombies\Release\PlantsVsZombies.dll
