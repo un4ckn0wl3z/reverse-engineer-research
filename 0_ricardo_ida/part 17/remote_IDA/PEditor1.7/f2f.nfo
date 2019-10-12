@@ -1,0 +1,132 @@
+ЩЭЭЭЭЭЭЭФФФњњњњ           њњњњФФФЭЭЭЭЭЫЭЭЭЭЭФФФњњњњ            њњњњФФФЭЭЭЭЭЭЭЛ
+К                                     К                                      К
+К                ВВВВВ                Г                  лВВА                К
+К              лВВВВВВВАА             Г              ллллллВВВА              К
+К            ллллВВВВВВААА            Г             ллллллллВВВАА            К
+Г          лллллВВВВВВВВВАА                        лллллллллллВВВВА          Г
+Г          лллллВлВВВВВВВВА      ллллВВВААА        ллллллллллллллВА          Г
+Г        лллллллллл  ВВВВАА   ллллллллВВВВААА      лллллл  лллллллВВА        Г
+.        ллллллл       ВАА   ллллллллллВВВВААА      ллл       ллллВВВ        .
+.       ллллллл              ллллллллллллВВАААА                лллллВА       .
+ лВВ   лллллп                ллллллллллллВВАААА                  плллВА   ААА
+ ллВААВлллллл                 лллл     лВВВВААБ                  лллллВВВВВВА
+ллллВВВлллллллВВВА                     лВВВВВАА              лллллллллллВллВАА
+  лллллллллллВВВВААА                  ллВВВВААА            ллллллллллллллллл
+      лллллллллВВВВА                  ллВВВВВАА            ллллллллллллл
+      лллллллллл                    лллллВВВВВ                лллллллллл
+     лллллллп                    ллллллллллВВл                    ллллллл
+.   лллллллл                    ллллллллллллл                     лллллллл   .
+.   ллллллл                    ллллллллллл                         ллллллВ   .
+Г  лллллллл                    лллллллл                            ллллллВА  Г
+Г  ллллллл                    лллллллл                              ллллллА  Г
+Г лллллл                      ллллллл                                 лллВАА Г
+К   ллл                      ллллллллллллллВВАА                        ллВ   К
+К    л                      лллллллллллллллВВВВАА                       л    К
+К                                    плллллллллВВВВААА                       К
+К                                       лллллллВВВлл                         К
+К                                                                            К
+К                F  R  e  A  K        2       F  R  e  A  K                  К
+К                                                               њњњњФФФЭЭЭЭЭЭМ
+ШЭЭЭЭЭЭЭФФФњњњњ                       Г
+                                      К
+                    њФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЪЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФњ
+                                      Т
+  кФФФФФњњњњњ                                                    њњњњњФФФФФП
+  К                    <-------   PEditor 1.7   ------->                   К
+  К                                                                        К
+  ШЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФњњФФФФФФФФФЭЭЭЭЭЮЭЭЭЭЭФФФФФФФФФњњФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭМ
+
+    ЬЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФњњњ       њњњФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЙ
+ ЩЭЭМ                  кФФФФФФФФФФФФФФФФФФФФФФФФФФФФФП                   ШЭЭЛ
+ К                     !        program infos        !                      К
+ Г  Г                  РФФФФФФФФФФФФФФФФФФФФФФФФФФФФФй                   Г  Г
+ Г  Г                                                                    Г  Г
+ Г  Г                                                                    Г  Г
+ њ  Г Features: - All important infos of the PE Header are shown and     Г  њ
+ њ  Г ~~~~~~~~~   can be changed                                         Г  њ
+    Г           - It has a file location calculator (VA-RVA-Offset)      Г
+    Г           - One can look up the Section Table and the Directory    Г
+    Г             Table and can change them too.                         Г
+    Г           - It can split a file into it's sections & PE Header     Г
+    Г           - It shows the checksum of a file and is able to correct Г
+    Г             it                                                     Г
+    Г           - One can look up the most important directories         Г
+    Г           - One can add and delete section in the PE Header        Г
+    Г           - It's able to copy a section from the Harddisk to the   Г
+    Г             end of the file and update the PE Header then          Г
+    Г           - Trancating                                             Г
+    Г           - There's sth like break&enter                           Г
+    Г           - You'll find a dumpfixer (RS:=VS and RO:=VO)            Г
+    Г           - task viewer/killer/dumper                              Г
+    Г           - ImportTable rebuilder                                  Г
+    Г           - RelocSectionWiper                                      Г
+    Г           - Religner                                               Г
+    Г           - Win NT/2k fixer                                        Г
+    Г           - ...                                                    Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г Know bugs: - petite strikes again (Ian you bastard ;)  the         Г
+    Г ~~~~~~~~~~   splitter and the FCL doesn't work very well on petit  Г
+    Г              protected files :(                                    Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г ToDo: - an Unpacker which supports the procdump commands and its   Г
+    Г ~~~~~   script.ini                                                 Г
+    Г         (that will take some time :)                               Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г procedure someshit;                                                Г
+    Г var firstcoder : TM.o.D.;                                          Г
+    Г     secondcoder: Tyoda;                                            Г
+    Г begin                                                              Г
+    Г                                                                    Г
+    Г firstcoder.say:= nil;                                              Г
+    Г secondcoder.say:= nil;                                             Г
+    Г                                                                    Г
+    Г end;                                                               Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г                                                                    Г
+    Г    If you explore any bugs or if you want to say anything else     Г
+    Г    to us then mail please !                                        Г
+    Г    We are currently looking for memberz. If you are interested -   Г  њ
+ њ  Г    mail !                                                          Г  њ
+ њ  Г                                                                    Г  Г
+ Г  Г                       coded by M.o.D. and yoda                     Г  Г
+ Г                                                                          К
+ ШЭЭЛ                      - freak2freak.cjb.net -                       ЩЭЭМ
+    Г                                                                    Г
+  кЭЪЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЫЭЭЭЭЭЭЭЭЭЭЭЫЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЪЭП
+  Г                             К  MemberZ  К                              Г
+ ГГ                             РФњњ     њњФй                              ГГ
+ ГГ                                                                        ГГ
+ ГГ                                                                        ГГ
+ ГГ  [M.o.D..................Founder/Coder/Cracker........MoD_f2f@gmx.net] ГГ
+ ГГ  [yoda...................Founder/Coder/Cracker.......yoda_f2f@gmx.net] ГГ
+  Г  [Kinderschaender........Webmaster.....................ks_f2f@gmx.net] Г
+  Г  [Spectre................Webmaster................spectre_f2f@gmx.net] Г
+  Г  [VooDoo.................Gamesupplier..............voodoorules@gmx.de] Г
+  Г                                                                        Г
+  Г                                                                        Г
+  РЭЫФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЫЭй
+  кЭЪЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЫЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЫЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЪЭП
+  Г                           К  TrialmemberZ  К                           Г
+ ГГ                           Рњњ            њњй                           ГГ
+ ГГ                                                                        ГГ
+  Г  [SkoopyDoo..............Cracker....................SkoopyDoo@gmx.net] Г
+  Г  [Karnak.................Cracker/Coder............karnak@apexmail.com] Г
+  Г  [KPN....................Cracker.................kpn2000@hushmail.com] Г
+  Г                                                                        Г
+  Г                                                                        Г
+  РЭЫФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЫЭй
+    К                                                                    К
+    К                                                                    К
+    ШЛ           GreetZ go out to all crackers of the world !!!         ЩМ
+     ШЛ                                                                ЩМ
+      ШЛ                                                              ЩМ
+       ШЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭМ
+         њњњњФФФФФФФФФФФФf2fњwasњfoundњtheњ23thњjanњ2000ФФФФФФФФФњњњњ
+                        њњњФФФФФФФФФФФ!ФФФФФФФФФФФФФњњњ
+                                                          nfo by yoda
